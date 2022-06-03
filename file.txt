@@ -1,4 +1,5 @@
 Hola soy Nicol O. tendo 19 años
 y estoy aprendiendo a usar Git y GitHub.
 
-¿Para que? Bueno, para implementarlo en un proyecto.
+¿Para que? Bueno, para implementarlo
+ en un proyecto de la univerisdad.
