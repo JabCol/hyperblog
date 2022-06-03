@@ -1,3 +1,4 @@
-Hola soy Nicol O. tendo 19 años.
+Hola soy Nicol O. tendo 19 años
+y estoy aprendiendo a usar Git y GitHub.
 
-y estoy aprendiendo a usar Git y GitHub melo añañai.
+¿Para que? Bueno, para implementarlo en un proyecto.
