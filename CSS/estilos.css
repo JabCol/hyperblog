@@ -4,3 +4,19 @@ body{
     background: darkkhaki;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.container{
+    width: 500px;
+    border-style: double;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+}
+
+.title{
+    width: 450px;
+    background: olivedrab;
+    margin-left: auto;
+    margin-right: auto;
+}
