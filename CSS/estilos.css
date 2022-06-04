@@ -1,13 +1,15 @@
 body{
+
     text-align: center;
     color: blue;
     background: darkkhaki;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .container{
     width: 500px;
     border-style: double;
+    border-width: 6px;
     border-color: black;
     margin-left: auto;
     margin-right: auto;
@@ -19,4 +21,30 @@ body{
     background: olivedrab;
     margin-left: auto;
     margin-right: auto;
+}
+
+.cabecera{
+    margin:0;
+    width: 490px;
+    height: 50px;
+    box-shadow: 5px 5px 30px black;
+    background: blue;
+    color: white;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: 20px;
+}
+
+.fi{
+    width: 100px;
+    height: 30px;
+    background: plum;
+    padding: 8px 25px;
+    font-size: 30px;
+}
+
+.nave{
+    width: 300px;
+    font-size: 20px;
+    padding-left: 50px;
 }
