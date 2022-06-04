@@ -1,9 +1,9 @@
 body{
 
-    text-align: center;
-    color: blue;
+    text-align: left;
+    color: black;
     background: darkkhaki;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .container{
@@ -19,6 +19,7 @@ body{
 .title{
     width: 450px;
     background: olivedrab;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
